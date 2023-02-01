@@ -8,4 +8,4 @@ Making Roblox even better! UTRoblox is the ultimate extension that enhances your
 
 
 # Support
-Please post any bugs or feature requests in #issues
+Please post any bugs or feature requests in [#issues]
