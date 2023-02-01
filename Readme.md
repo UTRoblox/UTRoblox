@@ -10,4 +10,4 @@ UTRoblox isn't available on any extension store yet so you need to set up it man
 
 
 # Support
-Please post any bugs or feature requests in [#issues]
+Please post any bugs or feature requests in https://github.com/UTRoblox/UTRoblox/issues
